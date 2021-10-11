@@ -8,11 +8,11 @@ PonyCrypt :)
 
 Contents of PonyCryptApp Directory
 
-#/aws_client_server_internet
+# /aws_client_server_internet
 
 This has the source code from which we build our project Shows test results with this working and running on the Internet with the server script running on an Amazon AWS EC2 instance The second version has issues because of: logging OAUTH 2.O in issues in authentication flow when runnign server on EC2 (this should be addressed in future work as well as using APP key versus credentials tokens). Server deployment and setup are shown with steps in README.md
 
-#/local_client_server
+# /local_client_server
 
 LOCAL CLIENT-SERVER CODE WITH VIRTUAL DATASTORE (Google Photos) All source code here Testing/ folder has all automated and manual test scripts, packet captures on loopback Results/ folder has: video demo link on local testbed and automated testing results logs
 
@@ -28,6 +28,6 @@ NOTES: anomalies where observed when trying to do iterated testing. Because the 
 
 Generate your own public key pair: sudo openssl req -x509 -sha256 -nodes -newkey rsa:2048 -days 365 -keyout localhost.key -out localhost.crt
 
-#/virtual_client_server
+# /virtual_client_server
 
 CLIENT-SIDE SCRIPT WITH VIRTUAL (SERVER(S) AND DATASTORE) == Google Photos servers and albums This runs similar to the first except that the client side script does all the work and the Google high speed servers replace our single server This was further developed by Urian dubbed it Photo Chat.
