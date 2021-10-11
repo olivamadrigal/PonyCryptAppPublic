@@ -1,0 +1,9 @@
+IN THIS DIR:
+
+
+These two directories:
+C:CLIENT
+S:SERVER
+
+Should have their corresponding private key.
+Additional Wireshark TLS captures and analysis etc.
