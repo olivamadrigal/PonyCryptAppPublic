@@ -1,6 +1,8 @@
 # PonyCryptPublic
 
-PonyCrypt chat app public version :)
+PonyCryptApp public version :)
+
+# Team Boaz: Urian Lee, Sandhya Ramachandraiah, Mohana Gudur Valmiki, & Samira Carolina Oliva Madrigal
 
 PonyCryptApp
 
