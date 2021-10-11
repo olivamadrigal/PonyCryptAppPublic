@@ -1,4 +1,6 @@
-# PonyCryptPublic -- PonyCrypt chat app public version
+# PonyCryptPublic
+
+PonyCrypt chat app public version :)
 
 PonyCryptApp
 
