@@ -12,6 +12,26 @@ PonyCrypt :)
 
 Contents of PonyCryptApp Directory
 
+# Applied Concepts and Tools:
+
+Sockets Programming
+
+Transport Layer Security (TLS)
+
+SSL/OPENSSL CRYPTO LIB: RSA, AES, SHA256, x.509 certificates
+
+Modified skeleton Python chat app to use steganography
+
+Serverless chat app script via virtual datastore
+
+Steganography
+
+AWS EC2 to run server using traditional client-server architecture
+
+Automated testing for basic functionality using Pytest
+
+Verified functionality using Wireshark packet capture and analysis
+
 # /aws_client_server_internet
 
 This has the source code from which we build our project Shows test results with this working and running on the Internet with the server script running on an Amazon AWS EC2 instance The second version has issues because of: logging OAUTH 2.O in issues in authentication flow when runnign server on EC2 (this should be addressed in future work as well as using APP key versus credentials tokens). Server deployment and setup are shown with steps in README.md
