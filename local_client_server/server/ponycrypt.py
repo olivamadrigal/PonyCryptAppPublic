@@ -45,7 +45,7 @@ class PonyCrypt:
     """
 
     def __init__(self):
-        self.API_KEY = 'AIzaSyCx6Ab5pJzJ8RYAzLJbqZs7nAFj6TwLI-s'
+        self.API_KEY = 'YOUR_API_KEY'
         self.CHATROOM_URL = 'https://photos.google.com/share/AF1QipMykwtfI9sbMOR43us4UXC0phk9HZEj4cIC0Sx7PsEf_iQuDYWPS6YOo28PGnOxUQ?key=d0pvb0wwUVFKdFFXN1d4dE0yNlZ6X1pldWxmazln'
         self.MAX_CHAT_ROOM = 1000
         self.MAX = 50    # client starts out with initial image repository
